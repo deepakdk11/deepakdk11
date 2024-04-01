@@ -21,9 +21,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakdk11" alt="deepakdk11" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdk11&show_icons=true&locale=en" alt="deepakdk11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdk11&show_icons=true&locale=en" alt="deepakdk11" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdk11&" alt="deepakdk11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdk11&" alt="deepakdk11" /></p>
+
 
 
 <!---
