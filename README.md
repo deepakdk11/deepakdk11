@@ -15,17 +15,10 @@
 ### Tool I Use
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/color/48/canva.png" alt="canva"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" alt="external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo"/>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakdk11&show_icons=true&locale=en&layout=compact" alt="deepakdk11" /></p>
 
 [![deepakdk11 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakdk11&bg_color=000000&color=f5f5f5&line=ffffff&point=4c00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakdk11&show_icons=true&locale=en&layout=compact" alt="deepakdk11" /></p>
 
 <!---
 deepakdk11/deepakdk11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
