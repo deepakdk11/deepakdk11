@@ -18,6 +18,15 @@
 
 
 [![deepakdk11 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakdk11&bg_color=000000&color=f5f5f5&line=ffffff&point=4c00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakdk11&show_icons=true&locale=en&layout=compact" alt="deepakdk11" /></p>
+
 <!---
 deepakdk11/deepakdk11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
