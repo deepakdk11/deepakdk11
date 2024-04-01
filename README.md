@@ -19,6 +19,12 @@
 
 [![deepakdk11 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakdk11&bg_color=000000&color=f5f5f5&line=ffffff&point=4c00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakdk11" alt="deepakdk11" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdk11&show_icons=true&locale=en" alt="deepakdk11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdk11&" alt="deepakdk11" /></p>
+
 
 <!---
 deepakdk11/deepakdk11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
