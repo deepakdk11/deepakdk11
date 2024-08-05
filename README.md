@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Deepak
 ##### I weave design and tech magic as a Front-End Web Developer, using HTML, CSS, and JavaScript, to deliver exceptional user experiences.
 
-- 🔭 Here's my [Portfolio](https://deepakdk11.github.io/portfolio/)
+- 🔭 Here's my [Portfolio](https://deepakdk11.netlify.app/)
 - 👀 I’m interested in Fullstack Development 
 - 🌱 I’m currently learning React Js and Java
 - 💞️ I’m looking to collaborate on Back development
