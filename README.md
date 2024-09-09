@@ -3,7 +3,7 @@
 
 - 🔭 Here's my [Portfolio](https://deepakdk11.netlify.app/)
 - 👀 I’m interested in Fullstack Development 
-- 🌱 I’m currently learning React Js and Java
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on Back development
 - 📫 How to reach me :
   <br/> [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://in.linkedin.com/in/deepak1107)
